@@ -1,0 +1,15 @@
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\4019986212.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3424883574.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2021029982.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3448400377.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2825749616.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\1891132932.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2312526865.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\472536905.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\669833030.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\1583032821.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\4194271827.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3025924698.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\163737872.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2701137802.index
+C:\Users\axxerr\Desktop\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\901769954.index

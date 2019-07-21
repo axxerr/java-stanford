@@ -1,0 +1,5 @@
+#Wed Jan 10 11:43:43 PST 2007
+org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+eclipse.preferences.version=1
+org.eclipse.jdt.debug.ui.active_filters=com.ibm.*,com.sun.*,java.*,javax.*,org.omg.*,sun.*,sunw.*,java.lang.ClassLoader
+org.eclipse.jdt.debug.ui.inactive_filters=

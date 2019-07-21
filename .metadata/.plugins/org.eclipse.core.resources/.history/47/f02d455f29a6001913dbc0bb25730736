@@ -1,0 +1,22 @@
+
+import acm.program.ConsoleProgram;
+
+
+public class Fibonaci extends ConsoleProgram{
+	public void run(){
+		int number1=0;
+		int number2=1;
+		int number3=0;
+		int total=10000;
+     
+	while(total>number3){
+		number3=number1+number2;
+		println(number3);
+		number1=number2;
+		number2=number3;
+		
+	}
+	
+	}
+
+}

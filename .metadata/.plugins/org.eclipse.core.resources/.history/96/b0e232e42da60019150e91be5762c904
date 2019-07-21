@@ -1,0 +1,19 @@
+import acm.graphics.GOval;
+import acm.graphics.GRect;
+import acm.program.GraphicsProgram;
+
+
+public class RobotFace extends GraphicsProgram{
+    public void run(){
+    	
+    	GRect face=new GRect(400,100,400,600);
+    	GOval lefteye=new GOval(500,200,50,50);
+    	GOval righteye=new GOval(650,200,50,50);
+    	GRect mauth=new GRect(480,500,220,70);
+    	add(face);
+    	add(lefteye);
+    	add(righteye);
+    	add(mauth);
+    
+    }
+}

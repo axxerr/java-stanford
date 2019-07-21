@@ -1,0 +1,12 @@
+import acm.graphics.*;
+import acm.program.ConsoleProgram;
+import acm.program.GraphicsProgram;
+
+
+public class HelloWorld extends ConsoleProgram{
+
+	public void run(){
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+import acm.graphics.GRect;
+import acm.program.GraphicsProgram;
+
+
+public class ex2 extends GraphicsProgram {
+ public void run(){
+	 GRect reckt=new GRect(300,100,200,100);
+	 add(reckt);
+ }
+}

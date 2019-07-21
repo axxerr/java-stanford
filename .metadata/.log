@@ -1,0 +1,30 @@
+!SESSION 2019-07-14 11:28:40.910 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-14 11:28:43.037
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+
+!ENTRY org.eclipse.jdt.launching 4 107 2019-07-14 11:33:11.041
+!MESSAGE Launch configuration FindRange references non-existing project Assignment2.
+!SESSION 2019-07-14 11:34:32.009 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-14 11:34:34.611
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2019-07-14 13:41:04.952 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-14 13:41:06.943
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.

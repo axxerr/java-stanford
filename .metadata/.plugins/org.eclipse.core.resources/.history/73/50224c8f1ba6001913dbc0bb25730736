@@ -1,0 +1,13 @@
+import acm.graphics.*;
+import acm.program.ConsoleProgram;
+import acm.program.GraphicsProgram;
+
+
+public class HelloWorld extends ConsoleProgram{
+
+	public void run(){
+		println("this add two  numbers:");
+		int n1=readInt("enter number 1:");
+	}
+
+}

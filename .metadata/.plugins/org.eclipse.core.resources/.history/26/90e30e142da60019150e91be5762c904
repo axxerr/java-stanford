@@ -1,0 +1,12 @@
+import acm.graphics.GRect;
+import acm.program.GraphicsProgram;
+
+
+public class RobotFace extends GraphicsProgram{
+    public void run(){
+    	
+    	GRect face=new GRect(400,100,400,600);
+    	GRect lefteye=new GRect(450,200,50,50);
+    	add(face);
+    }
+}

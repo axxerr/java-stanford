@@ -1,0 +1,22 @@
+
+import acm.program.ConsoleProgram;
+
+
+public class Fibonaci extends ConsoleProgram{
+	public void run(){
+		
+		int numer1=0;
+		int numer2=1;
+	
+     
+	while(numer1>MAX_NUMER){
+	int	numer3=numer1+numer2;
+		println(numer3);
+		numer1=numer2;
+		numer2=numer3;
+		
+	}
+	
+	}
+private static final int MAX_NUMER=10000;
+}
